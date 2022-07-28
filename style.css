@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    width: 100%;
+    margin: 0;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    text-align: center;
+}
+
+
+/************************/
+/*?      Table          */
+/************************/
+
+
+table {
+    width: 100%;
+    background-color: white;
+}
+
+
+table,
+th,
+td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    background-color: turquoise;
+    text-align: center;
+    padding: 15px;
+
+}
+
+
+/* Button */
+.center {
+    width: 20%;
+    margin: 50px auto;
+}
+
+button {
+    text-align: center;
+    padding: 10px 25px;
+    background-color: turquoise;
+    color: black;
+    border: 1px solid white;
+    border-radius: 8px;
+}

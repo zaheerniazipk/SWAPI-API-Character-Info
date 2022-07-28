@@ -1,0 +1,5 @@
+SWAPI - The Star Wars API Project
+
+Site URL : https://swapi.dev/
+
+API URL : 
